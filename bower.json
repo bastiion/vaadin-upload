@@ -50,7 +50,7 @@
     "iron-iconset-svg": "polymerelements/iron-iconset-svg#^1.0.0"
   },
   "variants": {
-    "polymer2": {
+    "2.x": {
       "devDependencies": {
         "web-component-tester": "^6.0.0",
         "test-fixture": "PolymerElements/test-fixture",
